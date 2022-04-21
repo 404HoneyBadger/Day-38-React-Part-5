@@ -4,7 +4,6 @@
 /node_modules
 /.pnp
 .pnp.js
-/Day-38-React-Part-5/node_modules
 
 # testing
 /coverage
