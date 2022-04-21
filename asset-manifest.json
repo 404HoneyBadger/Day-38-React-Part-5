@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/404HoneyBadger/Day-38-React-Part-5.git/static/css/main.bff4b5c8.css",
+    "main.js": "/404HoneyBadger/Day-38-React-Part-5.git/static/js/main.98a8706d.js",
+    "static/js/787.403374cb.chunk.js": "/404HoneyBadger/Day-38-React-Part-5.git/static/js/787.403374cb.chunk.js",
+    "static/media/5445590.jpg": "/404HoneyBadger/Day-38-React-Part-5.git/static/media/5445590.c4f3232bafd31653cdd5.jpg",
+    "index.html": "/404HoneyBadger/Day-38-React-Part-5.git/index.html",
+    "main.bff4b5c8.css.map": "/404HoneyBadger/Day-38-React-Part-5.git/static/css/main.bff4b5c8.css.map",
+    "main.98a8706d.js.map": "/404HoneyBadger/Day-38-React-Part-5.git/static/js/main.98a8706d.js.map",
+    "787.403374cb.chunk.js.map": "/404HoneyBadger/Day-38-React-Part-5.git/static/js/787.403374cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bff4b5c8.css",
+    "static/js/main.98a8706d.js"
+  ]
+}
